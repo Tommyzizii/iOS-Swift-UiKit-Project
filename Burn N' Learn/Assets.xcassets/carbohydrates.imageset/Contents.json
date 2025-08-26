@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Premium Vector | Smiling woman holding magnesium and calcium products.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
